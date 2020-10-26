@@ -5,3 +5,11 @@ Associando o GitHub no Visual Studio Code
 
 git remote add origin https:..
 
+=======================================
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Data_structures
+
+
+
+https://www.youtube.com/watch?v=skJE3zpaj_M
+
