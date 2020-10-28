@@ -13,3 +13,10 @@ https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Data_structures
 
 https://www.youtube.com/watch?v=skJE3zpaj_M
 
+CRIANDO SERVIDOR
+http://www.macoratti.net/17/04/node_restmgdb2.htm
+1 - npm init -y
+2 -  npm install express --save
+3 -  npm install mongodb --save
+4 -  npm install mongoose --save
+
