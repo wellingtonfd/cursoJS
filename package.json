@@ -1,7 +1,6 @@
 {
   "name": "cursoJS",
   "version": "1.0.0",
-  "description": "",
   "main": "fila.js",
   "dependencies": {
     "express": "^4.17.1",
@@ -21,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/wellingtonfd/cursoJS/issues"
   },
-  "homepage": "https://github.com/wellingtonfd/cursoJS#readme"
+  "homepage": "https://github.com/wellingtonfd/cursoJS#readme",
+  "description": ""
 }
